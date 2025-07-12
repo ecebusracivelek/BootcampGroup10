@@ -1,0 +1,671 @@
+Using pre-set license
+Built from '6000.0/respin/6000.0.51f1-a206c6c19c75' branch; Version is '6000.0.51f1 (01c3ff5872c5) revision 115711'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26100) 64bit CoreSingleLanguage' Language: 'tr' Physical Memory: 7948 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+Date: 2025-07-05T11:36:45Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.51f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/CASPER/OneDrive/Masaüstü/bc/yztabc
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+53283
+-job-worker-count
+3
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: C:/Users/CASPER/OneDrive/Masaüstü/bc/yztabc
+C:/Users/CASPER/OneDrive/Masaüstü/bc/yztabc
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [5468]  Target information:
+
+Player connection [5468]  * "[IP] 172.16.0.2 [Port] 0 [Flags] 2 [Guid] 809667185 [EditorId] 809667185 [Version] 1048832 [Id] WindowsEditor(7,ebc) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [5468]  * "[IP] 192.168.1.33 [Port] 0 [Flags] 2 [Guid] 809667185 [EditorId] 809667185 [Version] 1048832 [Id] WindowsEditor(7,ebc) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [5468] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [5468] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 3
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 16.33 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.51f1 (01c3ff5872c5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.51f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/CASPER/OneDrive/Masaüstü/bc/yztabc/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics (ID=0x8a56)
+    Vendor:   Intel
+    VRAM:     3974 MB
+    Driver:   27.20.100.9365
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.51f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.51f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.51f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56524
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.51f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.51f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.016953 seconds.
+- Loaded All Assemblies, in  2.145 seconds
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 707 ms
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.700 seconds
+Domain Reload Profiling: 3842ms
+	BeginReloadAssembly (1383ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (6ms)
+	RebuildCommonClasses (108ms)
+	RebuildNativeTypeToScriptingClass (33ms)
+	initialDomainReloadingComplete (144ms)
+	LoadAllAssembliesAndSetupDomain (473ms)
+		LoadAssemblies (1368ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (460ms)
+			TypeCache.Refresh (457ms)
+				TypeCache.ScanAssembly (419ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (1703ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1595ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (914ms)
+			SetLoadedEditorAssemblies (11ms)
+			BeforeProcessingInitializeOnLoad (174ms)
+			ProcessInitializeOnLoadAttributes (350ms)
+			ProcessInitializeOnLoadMethodAttributes (147ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  2.379 seconds
+Refreshing native plugins compatible for Editor in 2.52 ms, found 3 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.728 seconds
+Domain Reload Profiling: 4099ms
+	BeginReloadAssembly (471ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (19ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (68ms)
+	RebuildCommonClasses (95ms)
+	RebuildNativeTypeToScriptingClass (29ms)
+	initialDomainReloadingComplete (87ms)
+	LoadAllAssembliesAndSetupDomain (1689ms)
+		LoadAssemblies (1301ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (657ms)
+			TypeCache.Refresh (559ms)
+				TypeCache.ScanAssembly (517ms)
+			BuildScriptInfoCaches (78ms)
+			ResolveRequiredComponents (13ms)
+	FinalizeReload (1728ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1394ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (32ms)
+			SetLoadedEditorAssemblies (10ms)
+			BeforeProcessingInitializeOnLoad (278ms)
+			ProcessInitializeOnLoadAttributes (985ms)
+			ProcessInitializeOnLoadMethodAttributes (75ms)
+			AfterProcessingInitializeOnLoad (15ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (16ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 3.81 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3769 unused Assets / (1.1 MB). Loaded Objects now: 4263.
+Memory consumption went from 86.8 MB to 85.7 MB.
+Total: 13.027400 ms (FindLiveObjects: 1.398100 ms CreateObjectMapping: 0.829000 ms MarkObjects: 7.437500 ms  DeleteObjects: 3.360100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 579090.213259 seconds.
+  path: Assets/Junkyard models/Models/Barrier/Barrier.obj
+  artifactKey: Guid(b68c72ed5517705458d50fb6e935c659) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Junkyard models/Models/Barrier/Barrier.obj using Guid(b68c72ed5517705458d50fb6e935c659) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5bae15fa5f0c0827a4651b1eec24c8df') in 0.6530747 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.850265 seconds.
+  path: Assets/Junkyard models/Models/Car/Car0.png
+  artifactKey: Guid(59cf96c72af4b6d468810fc710ee5468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Junkyard models/Models/Car/Car0.png using Guid(59cf96c72af4b6d468810fc710ee5468) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4c819d58eb773696e00625c07c97c9d0') in 0.0614198 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/Junkyard models/Models/Car/Car1.png
+  artifactKey: Guid(f596580299bce61448f22d79fde179b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Junkyard models/Models/Car/Car1.png using Guid(f596580299bce61448f22d79fde179b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '345396bba1daa40ccf2914d1b0e08ebb') in 0.0399389 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Junkyard models/Models/Car/Car1.obj
+  artifactKey: Guid(3b6f5a7a1b9d5b44ba0d8136fcab450e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Junkyard models/Models/Car/Car1.obj using Guid(3b6f5a7a1b9d5b44ba0d8136fcab450e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c8f82f72e85b61bcafcf832a3c59fdf8') in 0.1530708 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 293.980381 seconds.
+  path: Assets/Pickup/Prefabs/PickUp_Frame.prefab
+  artifactKey: Guid(90dc5f9dcd1ef4c42817b974f9671eda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pickup/Prefabs/PickUp_Frame.prefab using Guid(90dc5f9dcd1ef4c42817b974f9671eda) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9d2f7d210f93ae8e205fcf7f083afc0f') in 0.266317 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 214
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/Pickup/Prefabs/PickUp_Mate_Dirt_Red.prefab
+  artifactKey: Guid(3b42583eee4546c4681d00700131dfbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pickup/Prefabs/PickUp_Mate_Dirt_Red.prefab using Guid(3b42583eee4546c4681d00700131dfbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'aa0b5f6e3dfb5199241d6bfa3922f2a0') in 0.3405297 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 407
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/Pickup/Prefabs/PickUp_Mate.prefab
+  artifactKey: Guid(8d82318b08a2b0a4796251e50274bce0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pickup/Prefabs/PickUp_Mate.prefab using Guid(8d82318b08a2b0a4796251e50274bce0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6e1c4b3e86a2586e151250a34444264f') in 0.9373391 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 408
+
+========================================================================
+Received Import Request.
+  Time since last request: 946.269343 seconds.
+  path: Assets/Food Pack/Prefabs/F_Asia_Onigiri.prefab
+  artifactKey: Guid(7187c3f4e6f817f4f8084642519c9d3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack/Prefabs/F_Asia_Onigiri.prefab using Guid(7187c3f4e6f817f4f8084642519c9d3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '32d368aa6d73039a3533e6ec0cb3d875') in 0.1629019 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 22
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/Food Pack/Prefabs/F_Europe_Hotdog_Hotdog_Classic.prefab
+  artifactKey: Guid(8632f83d59fee6541828e157f55537b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack/Prefabs/F_Europe_Hotdog_Hotdog_Classic.prefab using Guid(8632f83d59fee6541828e157f55537b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7eecb920d50ce2d4b3c733601baa989e') in 0.081694 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 22
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/Food Pack/Prefabs/F_Latin_Taco_Classic.prefab
+  artifactKey: Guid(8226da19ba392cf4aa7072c6293d46e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack/Prefabs/F_Latin_Taco_Classic.prefab using Guid(8226da19ba392cf4aa7072c6293d46e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '818f01e5bf9454394fd4e6cc71dad881') in 0.0804093 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 22
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/Food Pack/Prefabs/F_Latin_Corn.prefab
+  artifactKey: Guid(adf32a97ec6248e41af1072347eb68c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack/Prefabs/F_Latin_Corn.prefab using Guid(adf32a97ec6248e41af1072347eb68c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e74b10d8f4fe9876f8d2c9ffea8a3fe4') in 0.0775775 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 22
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/Food Pack/Prefabs/F_Europe_Bakery_French_Baguette_Half.prefab
+  artifactKey: Guid(b8c3df5d87cd52e458132b6a22009c7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack/Prefabs/F_Europe_Bakery_French_Baguette_Half.prefab using Guid(b8c3df5d87cd52e458132b6a22009c7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'db3fa53f85c8e7ff8ba85b12c4a5f38b') in 0.1092858 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 22
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/Food Pack/Prefabs/F_Europe_Bakery_Donut_Chocolate.prefab
+  artifactKey: Guid(5bfcdf4976df2054d933e7e96a1520fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Food Pack/Prefabs/F_Europe_Bakery_Donut_Chocolate.prefab using Guid(5bfcdf4976df2054d933e7e96a1520fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bcf7c94638b93fb9333251f5721e08e5') in 0.0785208 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 22
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.316102 seconds.
+  path: Assets/Junkyard models/Models/WoodenPile/WoodenPile.png
+  artifactKey: Guid(0d5b12a0274344d41a5df3114bc47843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Junkyard models/Models/WoodenPile/WoodenPile.png using Guid(0d5b12a0274344d41a5df3114bc47843) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd042018257c1ba7b0fe1e4f2040ae3b5') in 0.0517357 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.582256 seconds.
+  path: Assets/Junkyard models/Models/Bench/Bench.png
+  artifactKey: Guid(c019708ab086ac04d9e06e97bedd2f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Junkyard models/Models/Bench/Bench.png using Guid(c019708ab086ac04d9e06e97bedd2f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '41deaab87ef0847f15754ffe4f2b7121') in 0.0498246 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 306.551846 seconds.
+  path: Assets/Junkyard models/Models/Bus/Bus.png
+  artifactKey: Guid(8c27d6c2812c28442a8c9ab68d454055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Junkyard models/Models/Bus/Bus.png using Guid(8c27d6c2812c28442a8c9ab68d454055) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'eac5844ca927e07e37b71c4d93814e91') in 0.0715487 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 202.812692 seconds.
+  path: Assets/Junkyard models/Models/Bush/Bush02.png
+  artifactKey: Guid(fafe6e54004e59740a17f3f0f29faa42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Junkyard models/Models/Bush/Bush02.png using Guid(fafe6e54004e59740a17f3f0f29faa42) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b3db42c6c9752cddae9ad670a4021784') in 0.0478083 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Junkyard models/Models/Bush/Bush03.obj
+  artifactKey: Guid(bdafd688203f8d84995ca6d6eb68a9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Junkyard models/Models/Bush/Bush03.obj using Guid(bdafd688203f8d84995ca6d6eb68a9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'db061a2c8a03537c25aadf46115eee14') in 0.216707 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.060972 seconds.
+  path: Assets/Junkyard models/Models/Box/Box0.obj
+  artifactKey: Guid(30632b5d632d2c545ba8cc142519ce91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Junkyard models/Models/Box/Box0.obj using Guid(30632b5d632d2c545ba8cc142519ce91) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c42d2ccbe697df26b149b74560d72247') in 0.0863517 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/Junkyard models/Models/Box/Box2.obj
+  artifactKey: Guid(2eeeb92ce7b7a6a4792c1745f1191c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Junkyard models/Models/Box/Box2.obj using Guid(2eeeb92ce7b7a6a4792c1745f1191c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a5df3e76c370071b717f3b9d11e78065') in 0.0895292 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.240036 seconds.
+  path: Assets/Junkyard models/Models/Cargo/Cargo1.png
+  artifactKey: Guid(dab6ab242a7b9814f91f217f811aea37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Junkyard models/Models/Cargo/Cargo1.png using Guid(dab6ab242a7b9814f91f217f811aea37) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6eb3c4c90d423c72b0870b8588aa2550') in 0.0509335 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Junkyard models/Models/Cargo/CargoB1.obj
+  artifactKey: Guid(1a4c663dc60c3ec47be0d5adb5bf3168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Junkyard models/Models/Cargo/CargoB1.obj using Guid(1a4c663dc60c3ec47be0d5adb5bf3168) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0471d7f16a0c73ce0b2595134aa5f2a7') in 0.1007499 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Junkyard models/Models/Cargo/CargoC0.obj
+  artifactKey: Guid(463e9d66ec2b7ad428d27c80a2b2d1db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Junkyard models/Models/Cargo/CargoC0.obj using Guid(463e9d66ec2b7ad428d27c80a2b2d1db) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '25ae7a3cbb87412ef9dd8c2635eb4775') in 0.1297427 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/Junkyard models/Models/Cargo/CargoA1.obj
+  artifactKey: Guid(00ba75879d6ef5745a4888259bde7c0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Junkyard models/Models/Cargo/CargoA1.obj using Guid(00ba75879d6ef5745a4888259bde7c0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '53e84a8c84e6ffc53e938b5c8969489a') in 0.0795994 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.251296 seconds.
+  path: Assets/Junkyard models/Models/Electric/Electric00.png
+  artifactKey: Guid(bb78f2c537c8d7243b8dbe25861521e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Junkyard models/Models/Electric/Electric00.png using Guid(bb78f2c537c8d7243b8dbe25861521e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3b1dc4964e04cf3f115b586087927f7d') in 0.0568515 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Assets/Junkyard models/Models/Electric/Electric01.png
+  artifactKey: Guid(aa0443c2e925f05458af67c6b6d9ee42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Junkyard models/Models/Electric/Electric01.png using Guid(aa0443c2e925f05458af67c6b6d9ee42) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a6d70ca44218e0494cc2702f114fb998') in 0.044856 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Junkyard models/Models/Electric/Electric03.obj
+  artifactKey: Guid(69127c81c3fbd1b4381e245b1b5f434f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Junkyard models/Models/Electric/Electric03.obj using Guid(69127c81c3fbd1b4381e245b1b5f434f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '018fc30bee5dfeb563da2bc21ff352ac') in 0.0786108 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/Junkyard models/Models/Electric/Electric01.obj
+  artifactKey: Guid(f9a168d4eac5b6041851d989494d02da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Junkyard models/Models/Electric/Electric01.obj using Guid(f9a168d4eac5b6041851d989494d02da) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '646c5f28ab631949fbcdb3e06d4f2ee6') in 0.0680754 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 444.279929 seconds.
+  path: Assets/Junkyard models/Models/Reel/Reel.png
+  artifactKey: Guid(a27b7393b5b41ce4885c34549e4935bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Junkyard models/Models/Reel/Reel.png using Guid(a27b7393b5b41ce4885c34549e4935bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ee00ecdb26d602c01b86a4ade5ebf1f3') in 0.0744177 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.460713 seconds.
+  path: Assets/Junkyard models/Models/Refrigerator/Refrigerator.png
+  artifactKey: Guid(a80bd0337ead52f419796996be3f1a59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Junkyard models/Models/Refrigerator/Refrigerator.png using Guid(a80bd0337ead52f419796996be3f1a59) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a14d91d0e75435a8bf5b498c71df0a5d') in 0.0588104 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.809234 seconds.
+  path: Assets/Junkyard models/Models/Sink/Sink.png
+  artifactKey: Guid(74c961e302eb73c418cb27767981c17a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Junkyard models/Models/Sink/Sink.png using Guid(74c961e302eb73c418cb27767981c17a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e8de49db41747d0cfb23118095467a6d') in 0.0607427 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.593299 seconds.
+  path: Assets/Junkyard models/Models/Tank/Tank.png
+  artifactKey: Guid(1298f60a4da6f7e4aa18b40dde966da6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Junkyard models/Models/Tank/Tank.png using Guid(1298f60a4da6f7e4aa18b40dde966da6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'aaa66283e0c643af53da4a1729d33823') in 0.050433 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 63.249680 seconds.
+  path: Assets/Junkyard models/Models/Trap/Trap.png
+  artifactKey: Guid(8ed3a53760579d8468f1e1cf1513db3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Junkyard models/Models/Trap/Trap.png using Guid(8ed3a53760579d8468f1e1cf1513db3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '38a942947ea150f2868542e17e3144d9') in 0.0620943 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.408296 seconds.
+  path: Assets/Junkyard models/Models/Wash/Wash.png
+  artifactKey: Guid(13a02ad866231ec40b55d2977e1490e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Junkyard models/Models/Wash/Wash.png using Guid(13a02ad866231ec40b55d2977e1490e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e09e1298c9d8317fd6991d9b5dd3e938') in 0.0554684 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.289382 seconds.
+  path: Assets/Junkyard models/Models/Windmill/Windmill.png
+  artifactKey: Guid(f0baf6e5c920abd4898ece7c5d3c8de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Junkyard models/Models/Windmill/Windmill.png using Guid(f0baf6e5c920abd4898ece7c5d3c8de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7355dda6d4162f9817dca8654d7c860c') in 0.0548008 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.660859 seconds.
+  path: Assets/Rusty Vehicles/Rusty_Vehicles.fbm/1K_Hillbilly_TXTR.tif
+  artifactKey: Guid(69699d49751937e47b3f76b92a868e52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rusty Vehicles/Rusty_Vehicles.fbm/1K_Hillbilly_TXTR.tif using Guid(69699d49751937e47b3f76b92a868e52) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd389ae86ce66d14095e9af0f4dfe4380') in 0.0482647 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/Rusty Vehicles/Rusty_Vehicles.fbm/1K_Vehicle_Spec.tif
+  artifactKey: Guid(22722299c36eb514882ce76dac26fc81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rusty Vehicles/Rusty_Vehicles.fbm/1K_Vehicle_Spec.tif using Guid(22722299c36eb514882ce76dac26fc81) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a4bd17d57107b50cc62c22fa1dcc7864') in 0.0656565 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 598.133261 seconds.
+  path: Assets/Trees/Free_Trees/Prefabs/Oak_Tree.prefab
+  artifactKey: Guid(c44bd9bdc114d4a60932c0087d9d1732) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Trees/Free_Trees/Prefabs/Oak_Tree.prefab using Guid(c44bd9bdc114d4a60932c0087d9d1732) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4717dd63bbfa8c5b36bf160582980e24') in 0.0626689 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/Trees/Free_Trees/Prefabs/Poplar_Tree.prefab
+  artifactKey: Guid(826b6a0b570e8460990010fa615b5a2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Trees/Free_Trees/Prefabs/Poplar_Tree.prefab using Guid(826b6a0b570e8460990010fa615b5a2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0e340047eb04c786948a3a2584cd4388') in 0.0855351 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 192.350683 seconds.
+  path: Assets/Junkyard models/Models/Wheelbarrow/Wheelbarrow.png
+  artifactKey: Guid(3babbec7832bba44ba1fe43d240c0d28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Junkyard models/Models/Wheelbarrow/Wheelbarrow.png using Guid(3babbec7832bba44ba1fe43d240c0d28) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd98673b9f4428283063cc69f8bc9c969') in 0.0614773 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.282998 seconds.
+  path: Assets/Junkyard models/Models/Plane/Plane0.png
+  artifactKey: Guid(4847feefc603b4848be5003ed9dc2e52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Junkyard models/Models/Plane/Plane0.png using Guid(4847feefc603b4848be5003ed9dc2e52) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f0f0ab78643c4043b6b0eaf4c8b1aee1') in 0.0533142 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Junkyard models/Models/Plane/Plane1.obj
+  artifactKey: Guid(b1766c5263fa4eb4ab0661bea258d7b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Junkyard models/Models/Plane/Plane1.obj using Guid(b1766c5263fa4eb4ab0661bea258d7b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd931944b4fc708f4fcb4d1e3126eff3e') in 0.2077432 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 387.676946 seconds.
+  path: Assets/Junkyard models/Models/Part/Part00.png
+  artifactKey: Guid(df932f34f076a95419d97230a9cfe981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Junkyard models/Models/Part/Part00.png using Guid(df932f34f076a95419d97230a9cfe981) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '70628728c7ac2492ba756147a1925860') in 0.0604049 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Junkyard models/Models/Part/Part01.png
+  artifactKey: Guid(9df87cd5268fea747a293a73e47e79f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Junkyard models/Models/Part/Part01.png using Guid(9df87cd5268fea747a293a73e47e79f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '694190c5fd106f461f785a539aa9af65') in 0.0474043 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 94.808791 seconds.
+  path: Assets/Junkyard models/Models/Pallet/Pallet.png
+  artifactKey: Guid(8299bc4c2c7aaf1458bf572b306e5a6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Junkyard models/Models/Pallet/Pallet.png using Guid(8299bc4c2c7aaf1458bf572b306e5a6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '708123058dde8112441f104f2136ab82') in 0.0550781 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/Junkyard models/Models/Pallet/PalletBoxes.png
+  artifactKey: Guid(735c07a597923024eb9c2587b78742a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Junkyard models/Models/Pallet/PalletBoxes.png using Guid(735c07a597923024eb9c2587b78742a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3b9faf4a38e4e077b990cceb7e5fabf1') in 0.0433564 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Junkyard models/Models/Pallet/PalletBricks.png
+  artifactKey: Guid(2624062d9f4e96f4c9fd957434ff60a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Junkyard models/Models/Pallet/PalletBricks.png using Guid(2624062d9f4e96f4c9fd957434ff60a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7e46e49b48a22c76aa2b66a73a488324') in 0.0482222 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Junkyard models/Models/Pallet/PalletBoxes.fbx
+  artifactKey: Guid(310cbc23a1bc7b74ab72a484a2800e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Junkyard models/Models/Pallet/PalletBoxes.fbx using Guid(310cbc23a1bc7b74ab72a484a2800e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a9f5759beeaa66e39768a7d2bce447ba') in 0.0839236 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.954424 seconds.
+  path: Assets/Junkyard models/Models/Locker/Locker0.obj
+  artifactKey: Guid(c0e3bf591f3f0724a941d0eb463e3689) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Junkyard models/Models/Locker/Locker0.obj using Guid(c0e3bf591f3f0724a941d0eb463e3689) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '12572fff1e607e9b84507fe3b9c68906') in 0.0931574 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.756354 seconds.
+  path: Assets/Junkyard models/Models/GasPump/GasPump.png
+  artifactKey: Guid(5456d55326da9774aba613db96972133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Junkyard models/Models/GasPump/GasPump.png using Guid(5456d55326da9774aba613db96972133) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ea8412ba545797baf6fbe9084c5ce5a8') in 0.0634236 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 314.079680 seconds.
+  path: Assets/Junkyard models/Models/Fance/Fence0.obj
+  artifactKey: Guid(c36172a086fe4d446949d692c095e696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Junkyard models/Models/Fance/Fence0.obj using Guid(c36172a086fe4d446949d692c095e696) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5f5a85662cfce654f81afaa3bc76da1f') in 0.0721891 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 321.530848 seconds.
+  path: Assets/Junkyard models/Models/Cactus/Cactus.png
+  artifactKey: Guid(7bbc9d699f25af548831ac1af3bc9372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Junkyard models/Models/Cactus/Cactus.png using Guid(7bbc9d699f25af548831ac1af3bc9372) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f73f9840fb1804b5db373f85fbf6a3e9') in 0.0422758 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.894040 seconds.
+  path: Assets/Junkyard models/Models/Bath/Bath.png
+  artifactKey: Guid(ef035f5e64705d14a980b3c249916929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Junkyard models/Models/Bath/Bath.png using Guid(ef035f5e64705d14a980b3c249916929) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd021478cfe9fe84c120a68b23fdd73b1') in 0.0386299 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 69.443397 seconds.
+  path: Assets/House/Prefabs/PFB_TVStand.prefab
+  artifactKey: Guid(2c955ce5cc6b1a542900b51ed266259c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/House/Prefabs/PFB_TVStand.prefab using Guid(2c955ce5cc6b1a542900b51ed266259c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'eec4e40a788f9bff018914c0387ce539') in 0.4867296 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 67
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.778761 seconds.
+  path: Assets/CityVoxelPack/Assets/buildings/props/doors/Prefabs/door1_4x3.prefab
+  artifactKey: Guid(4b683b38c73a3e947b8dfbf752306b69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CityVoxelPack/Assets/buildings/props/doors/Prefabs/door1_4x3.prefab using Guid(4b683b38c73a3e947b8dfbf752306b69) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4477b947b7449be09459b8acf053e2c3') in 0.1085452 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 22
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/CityVoxelPack/Assets/buildings/props/doors/Prefabs/door2_4x3.prefab
+  artifactKey: Guid(3ec543f52d2ae9642a0e7d4f74531944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CityVoxelPack/Assets/buildings/props/doors/Prefabs/door2_4x3.prefab using Guid(3ec543f52d2ae9642a0e7d4f74531944) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1d978edad1d68747956e1d3d38058813') in 0.0450097 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 22
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/CityVoxelPack/Assets/buildings/props/doors/Prefabs/door3_4x5.prefab
+  artifactKey: Guid(9f26a35027bb36c4f9cc4cce5ed651a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CityVoxelPack/Assets/buildings/props/doors/Prefabs/door3_4x5.prefab using Guid(9f26a35027bb36c4f9cc4cce5ed651a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8129de1e929b634d72cba4b2223b2f33') in 0.0404122 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 22
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/CityVoxelPack/Assets/buildings/props/doors/Prefabs/door1_4x5.prefab
+  artifactKey: Guid(5da5e2efff9a02542bf2860ae1e360b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CityVoxelPack/Assets/buildings/props/doors/Prefabs/door1_4x5.prefab using Guid(5da5e2efff9a02542bf2860ae1e360b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fad1b3d3a0681ec252e1dba123a5a2ec') in 0.042565 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 22
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/CityVoxelPack/Assets/buildings/props/doors/Prefabs/door2_4x5.prefab
+  artifactKey: Guid(f90fcb50f259452409624949325cd4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CityVoxelPack/Assets/buildings/props/doors/Prefabs/door2_4x5.prefab using Guid(f90fcb50f259452409624949325cd4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0b8cb511ea4d7838ae147da7de2a80dc') in 0.0637336 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 22
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.473033 seconds.
+  path: Assets/CityVoxelPack/Assets/buildings/props/doors/Prefabs/door4_4x5.prefab
+  artifactKey: Guid(e3290114315271d4d991be24a70fb3e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CityVoxelPack/Assets/buildings/props/doors/Prefabs/door4_4x5.prefab using Guid(e3290114315271d4d991be24a70fb3e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3762fca75eefe2aada69d180499da6a9') in 0.0426731 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+

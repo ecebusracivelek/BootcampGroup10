@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: acc591f3f3af45842beb61b22a2ee1c0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275780
+  packageName: Free Healing Item (including C# Script)
+  packageVersion: 1.0
+  assetPath: Assets/ViapixGames/HealingItem/Prefabs/Healing Item.prefab
+  uploadId: 644048
