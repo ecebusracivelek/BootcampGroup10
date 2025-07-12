@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638868086344928387
-    m_Hash: 3464482396
+      ticks: 638879324937225161
+    m_Hash: 1137649980
   m_LockFileStatus:
     m_FilePath: "C:/Users/CASPER/OneDrive/Masa\xFCst\xFC/bc/yztabc/Packages/packages-lock.json"
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638868086839880292
-    m_Hash: 3644274572
+      ticks: 638879324937235139
+    m_Hash: 3792898883
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -379,9 +379,11 @@ m_ResolvedPackages:
     - 1.13.0
     - 1.13.1
     - 1.14.0
+    - 1.14.1
     compatible:
     - 1.14.0
-    recommended: 1.14.0
+    - 1.14.1
+    recommended: 1.14.1
     deprecated: []
   dependencies:
   - name: com.unity.modules.uielements
