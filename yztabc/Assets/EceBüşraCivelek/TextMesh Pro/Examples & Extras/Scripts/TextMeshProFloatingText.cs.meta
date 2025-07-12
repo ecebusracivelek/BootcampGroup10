@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a4d4c76e63944cba8c7d00f56334b98c
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - TheFont: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275780
+  packageName: Free Healing Item (including C# Script)
+  packageVersion: 1.0
+  assetPath: Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs
+  uploadId: 644048

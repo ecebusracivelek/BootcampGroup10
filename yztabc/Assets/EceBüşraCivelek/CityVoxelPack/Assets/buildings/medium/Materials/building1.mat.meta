@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f242548e4848c614ca1825e176f890d4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136141
+  packageName: City Voxel Pack
+  packageVersion: 1.0
+  assetPath: Assets/CityVoxelPack/Assets/buildings/medium/Materials/building1.mat
+  uploadId: 327233
