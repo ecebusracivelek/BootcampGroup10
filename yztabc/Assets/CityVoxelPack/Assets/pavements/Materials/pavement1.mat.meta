@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6804e1d61928364449facc32037cf29a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136141
+  packageName: City Voxel Pack
+  packageVersion: 1.0
+  assetPath: Assets/CityVoxelPack/Assets/pavements/Materials/pavement1.mat
+  uploadId: 327233

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 92e8a81f42999a54aafbc5ad2072304f
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3437
+  packageName: Rusty Cars
+  packageVersion: 1.0
+  assetPath: Assets/Rusty Vehicles/CullOffAlpha.shader
+  uploadId: 26427

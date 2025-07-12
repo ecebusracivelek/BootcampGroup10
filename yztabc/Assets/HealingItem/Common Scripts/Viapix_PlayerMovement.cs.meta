@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c3f1192b9e4ac934aa22ff4f1aa68f1b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275780
+  packageName: Free Healing Item (including C# Script)
+  packageVersion: 1.0
+  assetPath: Assets/ViapixGames/Common Scripts/Viapix_PlayerMovement.cs
+  uploadId: 644048

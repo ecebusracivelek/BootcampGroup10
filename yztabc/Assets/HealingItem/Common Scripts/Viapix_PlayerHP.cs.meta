@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b0e9c84cf479fc543afe92b496efd073
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275780
+  packageName: Free Healing Item (including C# Script)
+  packageVersion: 1.0
+  assetPath: Assets/ViapixGames/Common Scripts/Viapix_PlayerHP.cs
+  uploadId: 644048

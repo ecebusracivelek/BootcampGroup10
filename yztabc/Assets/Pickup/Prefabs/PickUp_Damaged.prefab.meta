@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 20d6170d440e52b438267a860798bb0a
+timeCreated: 1544864738
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135387
+  packageName: Pickup model
+  packageVersion: 1.0
+  assetPath: Assets/Pickup/Prefabs/PickUp_Damaged.prefab
+  uploadId: 391084

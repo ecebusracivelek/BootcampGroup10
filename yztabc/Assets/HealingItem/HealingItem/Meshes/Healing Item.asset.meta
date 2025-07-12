@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5fc7a42ea213e134d9c31a206f2a66cc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275780
+  packageName: Free Healing Item (including C# Script)
+  packageVersion: 1.0
+  assetPath: Assets/ViapixGames/HealingItem/Meshes/Healing Item.asset
+  uploadId: 644048
