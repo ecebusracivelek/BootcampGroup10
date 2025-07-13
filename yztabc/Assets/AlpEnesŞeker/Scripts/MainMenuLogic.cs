@@ -322,21 +322,21 @@ public class MainMenuLogic : MonoBehaviour
             Debug.Log("Menü müziği fade out ile kapatıldı!");
     }
 
-    private void LoadGameScene()
+private void LoadGameScene()
+{
+    // Sahne adını "City" olarak güncelleyin
+    if (Application.CanStreamedLevelBeLoaded("City"))
     {
-        // Sahne yükleme
-        if (Application.CanStreamedLevelBeLoaded("GameScene"))
-        {
-            if (showDebugLogs)
-                Debug.Log("GameScene sahnesine geçiliyor...");
-            SceneManager.LoadScene("GameScene");
-        }
-        else
-        {
-            Debug.LogError("GameScene bulunamadı! Build Settings'e eklenmiş mi kontrol edin.");
-            SceneManager.LoadScene("SampleScene");
-        }
+        if (showDebugLogs)
+            Debug.Log("City sahnesine geçiliyor...");
+        SceneManager.LoadScene("City");
     }
+    else
+    {
+        Debug.LogError("City sahnesi bulunamadı! Build Settings'e eklenmiş mi kontrol edin.");
+        SceneManager.LoadScene("SampleScene");
+    }
+}
 
     private IEnumerator FadeOutAndLoadScene()
     {
