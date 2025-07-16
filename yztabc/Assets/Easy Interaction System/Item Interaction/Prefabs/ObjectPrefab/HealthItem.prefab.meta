@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 27beb46d477336c488ef6cd694bd2d79
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 277187
+  packageName: Easy Interaction System
+  packageVersion: 1.0
+  assetPath: Assets/EndlessExistence/Item Interaction/Prefabs/ObjectPrefab/HealthItem.prefab
+  uploadId: 656789

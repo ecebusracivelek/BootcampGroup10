@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7a1cb0bc3bac30d429b8ffcb78e4d8b0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 277187
+  packageName: Easy Interaction System
+  packageVersion: 1.0
+  assetPath: Assets/EndlessExistence/Item Interaction/Scripts/ObjectScripts/EE_InspectObject.cs
+  uploadId: 656789

@@ -6,11 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/City.unity
-    guid: 38cc9342045a3ff42b1d2f05668d560f
-  - enabled: 1
-    path: "Assets/AlpEnes\u015Eeker/Scenes/MainMenu.unity"
-    guid: 54f18ddea454482468a1b0dd47dd262a
-  m_configObjects:
-    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
-  m_UseUCBPForAssetBundles: 0
+    path: Assets/EndlessExistence/DemoInteraction.unity
+    guid: 0871f6368bd015b42937d2825cdf49b0
+  m_configObjects: {}

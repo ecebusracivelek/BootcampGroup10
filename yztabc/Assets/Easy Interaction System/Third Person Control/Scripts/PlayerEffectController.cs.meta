@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b8fd965b7664e4641b214d57ac20ffd4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 277187
+  packageName: Easy Interaction System
+  packageVersion: 1.0
+  assetPath: Assets/EndlessExistence/Third Person Control/Scripts/PlayerEffectController.cs
+  uploadId: 656789

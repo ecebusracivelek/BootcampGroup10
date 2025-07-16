@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4c252df3c417e35428dae1d685e4c0b2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 277187
+  packageName: Easy Interaction System
+  packageVersion: 1.0
+  assetPath: Assets/EndlessExistence/Inventory/Scripts/Item SO/HealthItemSO.asset
+  uploadId: 656789

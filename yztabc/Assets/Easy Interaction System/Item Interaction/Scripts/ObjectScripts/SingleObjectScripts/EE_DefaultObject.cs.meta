@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b3a5fe13f8a38c94a8c2fcc6eddc7b19
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 277187
+  packageName: Easy Interaction System
+  packageVersion: 1.0
+  assetPath: Assets/EndlessExistence/Item Interaction/Scripts/ObjectScripts/SingleObjectScripts/EE_DefaultObject.cs
+  uploadId: 656789

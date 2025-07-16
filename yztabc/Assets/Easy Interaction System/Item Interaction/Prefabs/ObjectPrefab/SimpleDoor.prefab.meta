@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b2235fc9dde6b0b42971f3be249497fe
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 277187
+  packageName: Easy Interaction System
+  packageVersion: 1.0
+  assetPath: Assets/EndlessExistence/Item Interaction/Prefabs/ObjectPrefab/SimpleDoor.prefab
+  uploadId: 656789

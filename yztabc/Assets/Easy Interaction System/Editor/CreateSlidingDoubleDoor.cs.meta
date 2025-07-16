@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 39f8029453a542b448ec58de24c1d87c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 277187
+  packageName: Easy Interaction System
+  packageVersion: 1.0
+  assetPath: Assets/EndlessExistence/Editor/CreateSlidingDoubleDoor.cs
+  uploadId: 656789

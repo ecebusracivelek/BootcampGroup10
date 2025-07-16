@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cd968d88bbb43ff44863d5f6a47813b6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 277187
+  packageName: Easy Interaction System
+  packageVersion: 1.0
+  assetPath: Assets/EndlessExistence/Editor/CreateSlidingDoor.cs
+  uploadId: 656789

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d9cb4e84c3c57d34cb4de942de2388b7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 277187
+  packageName: Easy Interaction System
+  packageVersion: 1.0
+  assetPath: Assets/EndlessExistence/Item Interaction/Meshes/door/Animations/one
+    slide door.controller
+  uploadId: 656789

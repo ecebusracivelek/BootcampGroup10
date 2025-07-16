@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c8ffdfd21b47adc46b85af7284026dd0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 277187
+  packageName: Easy Interaction System
+  packageVersion: 1.0
+  assetPath: Assets/EndlessExistence/Inventory/Images/PlayerInventoryRenderer.renderTexture
+  uploadId: 656789

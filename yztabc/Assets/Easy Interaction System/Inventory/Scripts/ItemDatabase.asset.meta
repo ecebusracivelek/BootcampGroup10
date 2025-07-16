@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3fec4f6e23e979147b0469357c9ba69a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 277187
+  packageName: Easy Interaction System
+  packageVersion: 1.0
+  assetPath: Assets/EndlessExistence/Inventory/Scripts/ItemDatabase.asset
+  uploadId: 656789

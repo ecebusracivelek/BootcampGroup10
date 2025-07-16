@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 49d6010a9d070f440af6653173bb3c36
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 277187
+  packageName: Easy Interaction System
+  packageVersion: 1.0
+  assetPath: Assets/EndlessExistence/Inventory/Scripts/EE_ItemDetailContainer.cs
+  uploadId: 656789

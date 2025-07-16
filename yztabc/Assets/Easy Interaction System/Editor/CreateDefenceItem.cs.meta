@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bede40e3e16f1304fa425cda9e13e6db
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 277187
+  packageName: Easy Interaction System
+  packageVersion: 1.0
+  assetPath: Assets/EndlessExistence/Editor/CreateDefenceItem.cs
+  uploadId: 656789
