@@ -425,7 +425,7 @@
 "Assets/Easy Interaction System/Inventory/Scripts/ItemDatabase.cs"
 "Assets/Easy Interaction System/Item Interaction/Scripts/CustomEventTest.cs"
 "Assets/Easy Interaction System/Item Interaction/Scripts/EE_InspectCamera.cs"
-"Assets/Easy Interaction System/Item Interaction/Scripts/ObjectScripts/EE_InspectObject.cs"
+"Assets/Easy Interaction System/Item Interaction/Scripts/ObjectScripts/EEA_InspectObject.cs"
 "Assets/Easy Interaction System/Item Interaction/Scripts/ObjectScripts/EE_IObject.cs"
 "Assets/Easy Interaction System/Item Interaction/Scripts/ObjectScripts/EE_ItemInventoryInfo.cs"
 "Assets/Easy Interaction System/Item Interaction/Scripts/ObjectScripts/EE_Object.cs"

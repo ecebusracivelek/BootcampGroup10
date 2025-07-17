@@ -64,6 +64,11 @@ namespace EndlessExistence.Item_Interaction.Scripts.ObjectScripts
 
         public void SetDescription()
         {
+            // If no custom description is set, use a meaningful default
+            if (string.IsNullOrEmpty(Description))
+            {
+                Description = "Press E to interact with this item.";
+            }
             gameObject.GetComponent<EE_Object>().objectDescription.text = Description;
         }
 
