@@ -119,5 +119,5 @@ AssetOrigin:
   productId: 189884
   packageName: Modular First Person Controller
   packageVersion: 1.0.1
-  assetPath: Assets/ModularFirstPersonController/FirstPersonController/CircleReticle.png
+  assetPath: Assets/Scripts/FirstPersonController/CircleReticle.png
   uploadId: 428261

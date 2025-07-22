@@ -10,5 +10,5 @@ AssetOrigin:
   productId: 189884
   packageName: Modular First Person Controller
   packageVersion: 1.0.1
-  assetPath: Assets/ModularFirstPersonController/FirstPersonController/FirstPersonController.prefab
+  assetPath: Assets/Scripts/FirstPersonController/FirstPersonController.prefab
   uploadId: 428261

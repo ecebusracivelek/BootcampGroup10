@@ -14,5 +14,5 @@ AssetOrigin:
   productId: 189884
   packageName: Modular First Person Controller
   packageVersion: 1.0.1
-  assetPath: Assets/ModularFirstPersonController/FirstPersonController/FirstPersonController.cs
+  assetPath: Assets/Scripts/FirstPersonController/FirstPersonController.cs
   uploadId: 428261
