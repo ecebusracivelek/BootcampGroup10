@@ -186,7 +186,7 @@ Oyun içerisine yapay zeka entegrasyonu ile ilgili çalışmalara son sprintte y
 # 3. SPRINT 
 
 # 3. Sprint Notları: 
-Sprint içinde her görev için puan değerlendirmesi maksimum 10 puan olarak belirlenmiştir. İkinci sprintte puanlanacak 10 ana görev belirlenmiştir. Bu görevler sonucunda görevin zorluğu ve harcanan zamanlar göz önünde bulundurularak bir puanlama yapılmış ve bu puanlama sonucunda 82 puana ulaşılmıştır. Hedeflenen puanın (100p) altında kalındığı tespit edilmiş ve son sprintte bu eksiklerin telafi edileceği öngörülmüştür. Ancak ilk sprinte göre oldukça iyi bir ilerleme kaydedilmiştir.
+Son sprint içinde her görev için puan değerlendirmesi maksimum 10 puan olarak belirlenmiştir. Üçüncü sprintte puanlanacak 10 ana görev belirlenmiştir. Bu görevler sonucunda görevin zorluğu ve harcanan zamanlar göz önünde bulundurularak bir puanlama yapılmış ve bu puanlama sonucunda 82 puana ulaşılmıştır. Hedeflenen puana yakın bir puana ulaşıldığı (100p) tespit edilmiş ve son sprintte önceki iki sprintteki eksiklerin çoğu tamamlanarak telafi edilmiştir. Üç sprintte toplam 300 puana ulaşılacağı hedeflenmiş, üçüncü sprint sonunda bu hedefe tam ulaşılmasa da oldukça yüksek bir toplam puanla sprintlerdeki görevler tamamlanmıştır ( p).  
 
 # 2. Tahmin Edilen Tamamlanacak Puan: 
 100 Puan
@@ -194,20 +194,25 @@ Sprint içinde her görev için puan değerlendirmesi maksimum 10 puan olarak be
 # 3. Tahmin Mantığı:
 Puan tamamlama mantığı: Proje boyunca tamamlanması gereken toplam 300 puanlık backlog bulunmaktadır. 3 sprinte bölündüğünde her sprintin 100 ile başlaması gerektiği kararlaştırılmıştır. Hedeflenen puanlar altı (mavi), yedi (sarı) ve sekiz (yeşil), dokuz (mor) ve on (kırmızı) puan şeklinde görev ve sorumlu kişiler belitilerek "Miro" adlı sitede tanımlanmıştır. Puanlamalar yapılırken görevin zorluk derecesi ve göreve harcanan zamanlar göz önünde bulundurulmuştur. Görevler tanımlanırken takımdaki her bireyin eşit şekilde yer almasına dikkat edilmiştir.
 
-Backlog düzeni: 2. Sprintte de grup üyelerine Miro Board'da sprint başına tahmin edilen puan sayısını geçmeyecek şekilde görevler dağıtılmıştır. 
+Backlog düzeni: 3. Sprintte de grup üyelerine Miro Board'da sprint başına tahmin edilen puan sayısını geçmeyecek şekilde görevler dağıtılmıştır. 
 
 # 4. Daily Scrum: 
-Daily Scrum toplantılarının Huddle ve Google Meet üzerinden yapılması kararlaştırılmıştır. Daily Scrum toplantılarımız ve günlük Whatsapp, Slack konuşmalarımızdan kesitler:
+Daily Scrum toplantılarının Huddle ve Google Meet üzerinden yapılması kararlaştırılmıştır. Daily Scrum toplantılarımız ve günlük Whatsapp konuşmalarımızdan kesitler:
 
 <img width="1061" height="866" alt="image" src="https://github.com/user-attachments/assets/de27c47f-8e6f-4e47-898c-a519afb9f819" />
 
 <img width="1072" height="869" alt="image" src="https://github.com/user-attachments/assets/cffa3d22-837e-4c61-8845-8477552503e4" />
+
+![WhatsApp Görsel 2025-07-31 saat 14 16 49_0f8de2b9](https://github.com/user-attachments/assets/750305b9-4155-43bc-a83f-dad0666378d5)
+
+![WhatsApp Görsel 2025-07-31 saat 14 16 50_213b0c43](https://github.com/user-attachments/assets/99862fb3-b61e-49fb-9384-571c0c165469)
 
 # 5. Sprint Board Updates: / Sprint board screenshot:
 
 
 # 6. Screenshot (Ürün Durumu: Ekran Görüntüleri)
 
+![WhatsApp Görsel 2025-07-31 saat 14 16 27_0ee855c4](https://github.com/user-attachments/assets/493f838a-0339-4c68-96a1-81eb5b9a3316)
 
 # 7. Sprint Review:
 
