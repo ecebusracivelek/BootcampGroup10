@@ -182,3 +182,32 @@ Her birey kendi yetkinlikleri doğrultusunda sürece katkılar sağladı. Süre�
 Grupta game developer olarak bulunan 1 üye kendi rızasıyla akademiye haber vererek gruptan ayrıldı ve bireysel ilerleme kararı aldı. Süreç 3 kişi yürütüldü.
 Sprint board'da oluşturulan product backlog için ilk sprintte hedeflenen 100 puana ulaşılamadı, 82 puan ile ikinci sprint tamamlandı. Eksiklerin sonraki sprintlerde tamamlanması kararlaştırıldı.
 Oyun içerisine yapay zeka entegrasyonu ile ilgili çalışmalara son sprintte yer verilmesi öngörüldü.
+
+# 3. SPRINT 
+
+# 3. Sprint Notları: 
+Sprint içinde her görev için puan değerlendirmesi maksimum 10 puan olarak belirlenmiştir. İkinci sprintte puanlanacak 10 ana görev belirlenmiştir. Bu görevler sonucunda görevin zorluğu ve harcanan zamanlar göz önünde bulundurularak bir puanlama yapılmış ve bu puanlama sonucunda 82 puana ulaşılmıştır. Hedeflenen puanın (100p) altında kalındığı tespit edilmiş ve son sprintte bu eksiklerin telafi edileceği öngörülmüştür. Ancak ilk sprinte göre oldukça iyi bir ilerleme kaydedilmiştir.
+
+# 2. Tahmin Edilen Tamamlanacak Puan: 
+100 Puan
+
+# 3. Tahmin Mantığı:
+Puan tamamlama mantığı: Proje boyunca tamamlanması gereken toplam 300 puanlık backlog bulunmaktadır. 3 sprinte bölündüğünde her sprintin 100 ile başlaması gerektiği kararlaştırılmıştır. Hedeflenen puanlar altı (mavi), yedi (sarı) ve sekiz (yeşil), dokuz (mor) ve on (kırmızı) puan şeklinde görev ve sorumlu kişiler belitilerek "Miro" adlı sitede tanımlanmıştır. Puanlamalar yapılırken görevin zorluk derecesi ve göreve harcanan zamanlar göz önünde bulundurulmuştur. Görevler tanımlanırken takımdaki her bireyin eşit şekilde yer almasına dikkat edilmiştir.
+
+Backlog düzeni: 2. Sprintte de grup üyelerine Miro Board'da sprint başına tahmin edilen puan sayısını geçmeyecek şekilde görevler dağıtılmıştır. 
+
+# 4. Daily Scrum: 
+Daily Scrum toplantılarının Huddle ve Google Meet üzerinden yapılması kararlaştırılmıştır. Daily Scrum toplantılarımız ve günlük Whatsapp, Slack konuşmalarımızdan kesitler:
+
+# 5. Sprint Board Updates: / Sprint board screenshot:
+
+
+# 6. Screenshot (Ürün Durumu: Ekran Görüntüleri)
+
+
+# 7. Sprint Review:
+
+
+Sprint Review katılımcıları: Ece Büşra CİVELEK, Alp Enes ŞEKER, Dilara AŞÇI
+
+# 8. Sprint Retrospective:
