@@ -199,6 +199,10 @@ Backlog düzeni: 2. Sprintte de grup üyelerine Miro Board'da sprint başına ta
 # 4. Daily Scrum: 
 Daily Scrum toplantılarının Huddle ve Google Meet üzerinden yapılması kararlaştırılmıştır. Daily Scrum toplantılarımız ve günlük Whatsapp, Slack konuşmalarımızdan kesitler:
 
+<img width="1061" height="866" alt="image" src="https://github.com/user-attachments/assets/de27c47f-8e6f-4e47-898c-a519afb9f819" />
+
+<img width="1072" height="869" alt="image" src="https://github.com/user-attachments/assets/cffa3d22-837e-4c61-8845-8477552503e4" />
+
 # 5. Sprint Board Updates: / Sprint board screenshot:
 
 
