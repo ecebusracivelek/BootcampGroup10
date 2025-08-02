@@ -186,7 +186,7 @@ Oyun içerisine yapay zeka entegrasyonu ile ilgili çalışmalara son sprintte y
 # 3. SPRINT 
 
 # 3. Sprint Notları: 
-Son sprint içinde her görev için puan değerlendirmesi maksimum 10 puan olarak belirlenmiştir. Üçüncü sprintte puanlanacak 10 ana görev belirlenmiştir. Bu görevler sonucunda görevin zorluğu ve harcanan zamanlar göz önünde bulundurularak bir puanlama yapılmış ve bu puanlama sonucunda 82 puana ulaşılmıştır. Hedeflenen puana yakın bir puana ulaşıldığı (100p) tespit edilmiş ve son sprintte önceki iki sprintteki eksiklerin çoğu tamamlanarak telafi edilmiştir. Üç sprintte toplam 300 puana ulaşılacağı hedeflenmiş, üçüncü sprint sonunda bu hedefe tam ulaşılmasa da oldukça yüksek bir toplam puanla sprintlerdeki görevler tamamlanmıştır ( p).  
+Son sprint içinde her görev için puan değerlendirmesi maksimum 10 puan olarak belirlenmiştir. Üçüncü sprintte puanlanacak 10 ana görev belirlenmiştir. Bu görevler sonucunda görevin zorluğu ve harcanan zamanlar göz önünde bulundurularak bir puanlama yapılmış ve bu puanlama sonucunda 96 puana ulaşılmıştır. Hedeflenen puana yakın bir puana ulaşıldığı (100p) tespit edilmiş ve son sprintte önceki iki sprintteki eksiklerin çoğu tamamlanarak telafi edilmiştir. Üç sprintte toplam 300 puana ulaşılacağı hedeflenmiş, üçüncü sprint sonunda bu hedefe tam ulaşılmasa da oldukça yüksek bir toplam puanla tüm sprintlerdeki görevler tamamlanmıştır (255/300p).  
 
 # 2. Tahmin Edilen Tamamlanacak Puan: 
 100 Puan
@@ -209,6 +209,7 @@ Daily Scrum toplantılarının Huddle ve Google Meet üzerinden yapılması kara
 
 # 5. Sprint Board Updates: / Sprint board screenshot:
 
+<img width="1358" height="884" alt="image" src="https://github.com/user-attachments/assets/1181951b-68aa-457c-8b03-f9d704680beb" />
 
 # 6. Screenshot (Ürün Durumu: Ekran Görüntüleri)
 
@@ -216,7 +217,21 @@ Daily Scrum toplantılarının Huddle ve Google Meet üzerinden yapılması kara
 
 # 7. Sprint Review:
 
+Tüm görevler tamamlandı, test edildi ve oyun son oyananabilir halini aldı.
+Silah sesi ve oyuna ait diğer ses efektleri yerleştirildi.
+Zombi saldırısı ve ölme animasyonu eklendi.
+Son backlogta görev dağılımı yapılarak önceki tespit edilen eksikler de tamamlanarak hedeflenen düzeye ulaşıldı.
+Oyun videosu tasarlandı ve tamamlandı.
+Grupça son kritikler, toplantılar yapıldı, tebrikler ve güzel temenniler edilerek süreç sonlandırıldı.
 
 Sprint Review katılımcıları: Ece Büşra CİVELEK, Alp Enes ŞEKER, Dilara AŞÇI
 
 # 8. Sprint Retrospective:
+
+Toplantılar düzenli olarak belirli bir zaman aralığıyla gerçekleştirildi.
+Her birey kendi yetkinlikleri doğrultusunda sürece katkılar sağladı. 
+Oyun içerisinde yapay zeka entegrasyonu tam olarak sağlanamadı ancak süreç boyunca çeşitli yapay zeka uygulamalarından destekler alındı (Oyun ve grup logosu, Hikaye tasarımı vb).
+Product backlogta yer alan tüm görevler tamamlandı. 3 sprintte toplam 255 puana ulaşıldı. 
+Oyun videosunun yer aldığı form doldurularak akademiye gönderildi.
+
+(Scrum master notu: Sonuç ne olursa olsun sürecin en başından en sonuna kadar birlik ve beraberliğini sürdüren, grup dinamiğine uygun hareket eden, iletişimini kesmeyen, görev ve sorumluluklarını bilip sonuca ve grubumuza inanıp bunun için sonuna kadar emek veren takım arkadaşlarıma çok teşekkür ediyorum, çok zevkli bir süreçti, iyi ki sizi tanıdım). <3
