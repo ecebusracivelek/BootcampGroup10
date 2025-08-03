@@ -215,6 +215,8 @@ Daily Scrum toplantılarının Huddle ve Google Meet üzerinden yapılması kara
 
 ![WhatsApp Görsel 2025-07-31 saat 14 16 27_0ee855c4](https://github.com/user-attachments/assets/493f838a-0339-4c68-96a1-81eb5b9a3316)
 
+![WhatsApp Görsel 2025-08-03 saat 15 21 31_6a987d48](https://github.com/user-attachments/assets/dbd94ebc-09d5-473c-a39b-ab9ff88216a6)
+
 # 7. Sprint Review:
 
 Tüm görevler tamamlandı, test edildi ve oyun son oyananabilir halini aldı.
